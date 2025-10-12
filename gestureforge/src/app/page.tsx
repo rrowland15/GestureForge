@@ -1,5 +1,7 @@
-import React from "react";
+"use client";
 
+import React from "react";
+import WebcamFeed from "./components/WebcamFeed"
 
 
 // Define the component for your page
@@ -9,6 +11,7 @@ export default function HomePage() {
       <h1 className="text-4xl font-bold !text-blue-600">
         Hello GestureForge!
       </h1>
+      <WebcamFeed />
     </main>
   );
 }
