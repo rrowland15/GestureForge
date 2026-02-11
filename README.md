@@ -1,5 +1,5 @@
 # GestureForge
-Webapp allowing users to train custom static gesture recognition models and use them to control various browser actions. Application can be expanded in the future for audio recongition.
+Webapp allowing users to train custom static gesture recognition models and use them to control various browser actions. Application can be expanded in the future for audio recongition. Application based on previous ML model findings that can be found here.  
 
 ## Tech Stack
 Front End:
