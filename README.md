@@ -1,7 +1,7 @@
 # GestureForge
 Webapp allowing users to train custom static gesture recognition models and use them to control various browser actions. Application can be expanded in the future for audio recongition. Application based on previous ML model findings that can be found [here](https://github.com/rrowland15/GestureForge/blob/main/Term_Project_102%20(1).pdf). 
 
-The rest of this ReadMe highlights the plan for expanding these learnings into a functional web application for users to train their own gesture recognition models and bind them to browser/desktop actions. This has not yet been completed but shows my intended stack and milestones for completion.
+The rest of this Readme highlights the plan for expanding these learnings into a functional web application for users to train their own gesture recognition models and bind them to browser/desktop actions. This has not yet been completed but shows my intended stack and milestones for completion.
 
 ## Tech Stack
 Front End:
